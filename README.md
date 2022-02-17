@@ -16,9 +16,9 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-## Projects on Google Playstore
+### Projects on Google Playstore
 
-<a href = "https://play.google.com/store/apps/details?id=com.opju.android.freed">Freed (leave management system)</a>
+* <a href = "https://play.google.com/store/apps/details?id=com.opju.android.freed">Freed (leave management system)</a>
 
 <!--
 **Roshannahak/roshannahak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
